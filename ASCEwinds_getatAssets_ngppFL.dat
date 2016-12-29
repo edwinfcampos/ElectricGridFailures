@@ -1,0 +1,7 @@
+Data downloaded from 'http://windspeed.atcouncil.org' on Mon Aug 31 12:46:47 2015 CDT, where each column corresponds to...
+Latitude(degrees, positive north)
+Longitude(degrees, positive east)
+ASCE 7-05 Wind speeds (50-years mean recurrence interval for 3-seconds peak gust, in miles-per-hour)
+ASCE 7-10 Wind speeds (Risk Category III-IV: >1700-years mean recurrence interval for 3-seconds peak gust, in miles-per-hour)
+Asset name
+30.964339    -87.177928    120    149    Quantum Resources Management-St. Regis Gas Plant (St. Regis Treatment Facility and Jay Gas Plant)

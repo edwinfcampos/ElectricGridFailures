@@ -1,0 +1,223 @@
+Data downloaded from 'http://windspeed.atcouncil.org' on Wed Sep  2 10:23:58 2015 CDT, where each column corresponds to...
+Latitude(degrees, positive north)
+Longitude(degrees, positive east)
+ASCE 7-05 Wind speeds (50-years mean recurrence interval for 3-seconds peak gust, in miles-per-hour)
+ASCE 7-10 Wind speeds (Risk Category III-IV: >1700-years mean recurrence interval for 3-seconds peak gust, in miles-per-hour)
+Asset name
+30.9485294787    -88.1681878955    123    156    Chunchula Gas Plant
+31.1723329993    -87.4371357859    116    146    Atmore Treating Facility
+31.241278    -87.42975    114    144    Flare-Butler Street Gas Plant
+31.0715708201    -87.3630215462    118    148    Big Escambia Creek Gas Plant
+31.243471    -87.187836    114    142    Dogwood Oaks Plant
+31.296321    -86.88647    111    139    Castleberry Gas Processing Plant
+31.461605    -88.401068    110    141    American Midstream - Chatom Gas Plant
+30.389528    -88.172944    145    173    Mobile Bay Gas Plant (Mobile Bay Processing)
+30.400556    -88.177222    144    173    Williams Mobile Bay Gas Plant
+30.403662    -88.128507    144    173    Yellowhammer Gas Plant
+30.891583    -88.066806    125    157    Hatters Pond Gas Plant
+31.315179    -86.783521    110    138    North Beach Plant
+31.418733    -87.403173    110    139    Flare-Wildfork Gas Plant
+31.45901    -87.422058    110    139    Lufkin Gas Plant
+31.844278    -88.185248    105    134    Womack Hill Gas Plant
+33.382443    -87.922624    90    120    Gordo BWB Compressor & Processing Plant (Gordo Gas Plant)
+31.475274    -87.310638    109    138    Mockingbird Gas Plant (Monroeville)
+30.5440161437    -95.1859922612    96    129    Mercy Gas Plant
+30.964339    -87.177928    120    149    Quantum Resources Management-St. Regis Gas Plant (St. Regis Treatment Facility and Jay Gas Plant)
+29.88113    -92.28193    115    150    PSI Midstream Kaplan Gas Plant (PSI Kaplan Plant)
+29.883554    -92.276723    115    150    Cow Island Plant
+32.513028    -93.152222    90    120    Ada Plant
+32.745    -93.654167    90    120    Benton Separation Facility
+32.531225    -92.366904    90    120    El Paso Energy Calhoun Gas Plant
+29.692888    -91.345916    121    154    Calumet Gas Plant
+29.761667    -93.609722    127    154    Stingray Plant
+29.762301    -93.639687    127    154    Cameron Meadows Gas Processing Facility
+29.765226    -93.637005    127    154    Barracuda Plant (Barracuda Gas Plant)
+30.099044    -93.463739    112    145    MGGT-GL Production Facility
+30.239081    -91.682705    107    138    Lake LaRose Gas Plant
+29.733968    -91.445605    119    153    Enterprise Neptune Gas Plant
+29.570333    -91.531906    125    157    Burns Point Gas Plant
+32.784722    -93.373889    90    120    Cotton Valley Gas Plant
+32.689443    -92.662221    90    120    Dubach Gas Plant
+32.649247    -92.791103    90    120    Salem Compressor Station
+32.505417    -93.185861    90    120    Dubberly Gas Plant
+30.22    -92.508333    107    140    Acadia Gas Processing Plant
+30.756111    -91.795556    100    126    Elba Field Gas Plant
+32.36111    -93.564443    90    120    Elm Grove Gas Plant
+29.896667    -92.066694    114    149    Sea Robin Gas Processing Plant
+29.899442    -92.068285    114    149    Henry Gas Processing Complex
+32.463333    -92.575    90    120    Townsend No. 1 Production Facility (Townsend Gas Plant)
+30.460556    -92.531667    103    133    Eunice Natural Gas Processing Plant (Eunice Plant)
+30.255306    -92.586472    107    139    Leckelt Gas Plant
+32.397231    -93.609681    90    120    Grayson 24h #1 & Grayson 25h #1
+32.236874    -93.639476    90    120    Gravel Point Plant
+30.219119    -91.033065    110    138    Enterprise Tebone Fractionation Plant
+30.213889    -91.036111    110    138    Riverside Fractionation Plant
+30.218917    -91.03775    110    138    Lonestar NGL Geismar Fractionation Plant
+29.6257667    -90.92866388    124    157    Enterprise North Terrebonne Gas Plant (North Terrebonne Plant)
+29.642884    -90.964075    123    157    Gibson Gas Plant (Gibson Plant)
+29.764444    -92.960833    123    154    Grand Chenier Gas Plant
+29.765806    -92.958917    123    154    Grand Chenier Gas Plant
+29.252249    -89.971695    146    180    ExxonMobil Production - Grand Isle Gas Plant
+32.515833    -93.53111    90    120    Sligo Gas Plant
+32.469167    -93.525833    90    120    Foxskin Compressor Station
+29.758062    -93.646052    127    155    Sabine Pass Plant
+32.189313    -93.910497    90    120    VERNON E FAULCONER INC - DESOTO COMPRESSOR STATION (Desoto Gas Plant)
+30.495806    -91.789667    103    132    Krotz Springs Gas Plant
+30.007967    -92.775675    113    147    Lowry Plant (Lowry Gas Plant)
+30.273333    -93.156944    107    139    Gillis Gas Plant
+30.11839    -93.281761    111    144    Big Lake Gas Plant
+29.541712    -90.396773    132    164    Larose Processing Plant (Larose Cryogenic Plant)
+32.791383    -92.80833    90    120    Lisbon Gas Plant
+32.865361    -92.888306    90    120    Antioch Gas Processing Facility
+32.0723    -93.94    90    120    State Line Compressor Station (State Line Gas Processing Plant)
+30.62979    -93.1796    100    129    Doornbos Estates #1 Production Facility
+30.772139    -93.469472    98    126    Neale Gas Plant
+32.780083    -93.259139    90    120    Minden Plant (Minden Beacon)
+30.127247222    -92.44898333    108    142    Blue Water Gas Plant
+30.015767    -90.403332    119    147    Norco Fractionation Plant
+32.452589    -93.485711    90    120    Elm Grove Dew Point Control Plant (Elm Grove Plant)
+30.622204    -92.761382    100    129    Castor Creek Gas Plant
+29.726111    -91.340556    120    153    Patterson Gas Plant (Patterson II Plant)
+29.691667    -91.342778    121    154    Pelican Gas Plant
+30.982589    -92.852399    95    123    Masters Creek Gas Plant (Rev 1)
+32.858608    -93.609233    90    120    Rocky Mount Gas Plant
+30.235386    -91.239574    108    138    Plaquemine Natural Gas Plant (Plaquemine Plant)
+30.2386111    -91.2443394    108    138    Plaquemine NGL Fractionation Plant
+30.480893    -91.203296    105    132    Port Allen Plant
+30.49384    -91.22411    105    132    ExxonMobil Production - Baton Rouge Gas Plant
+30.42817    -93.231946    104    134    Ragley Processing Plant
+30.481389    -93.002222    103    133    Indian Village Gas Plant
+32.861383    -93.588133    90    120    Rocky Mount Gathering System Facility (Rocky Mount)
+32.344975    -93.613042    90    120    Caspiana Compressor Station
+32.640278    -93.84825    90    120    Light 13 No. 1
+30.118583    -90.8935    112    141    Lonestar Refinery Services LLC Sorrento
+29.849186    -89.698758    138    162    Yscloskey Gas Plant
+29.866243    -89.833206    133    159    Toca Gas Plant
+29.862778    -89.828889    134    159    Toca Natural Gas Processing Plant (SOUTHERN NATURAL GAS CO - TOCA COMPRESSOR STATION)
+30.135167    -93.314667    110    144    Mere No. 1 Production Facility
+29.237222    -89.385    147    178    Venice Complex (Venice Gas Plant)
+29.234944    -89.381694    147    178    Venice Condensate Stablization
+30.1679    -93.6217    110    143    Walker #30 Production Facility
+30.658944    -90.808278    105    129    Beaver Dam Creek Gas Plant
+30.274182    -93.025999    107    139    Iowa Gas Plant
+32.906631    -93.701071    90    120    Plain Dealing JT Plant
+32.871601    -93.9871    90    120    Vivian Gas Processing Plant
+30.970274    -90.822021    101    125    Chipola Field Gas Plant
+29.963569    -90.809688    116    146    College Point Gas Plant
+31.782222    -102.247222    90    120    Roberts Gas Plant Ranch
+29.047183    -95.747683    119    154    Harvest Pipeline Old Ocean Plant
+30.682456    -101.217705    90    120    Ozona Gas Plant
+30.67424    -101.205708    90    120    Ozona Gas Plant
+30.445833    -101.466667    90    120    Southwest Ozona Gas Plant
+31.416969    -99.893803    90    120    Concho Gas Plant
+35.510754    -101.03617    90    120    Gray County Plant
+35.51399    -101.407531    90    120    Grey Badger Gas Plant
+33.099542    -98.071886    90    120    Worsham Steed
+33.725058    -88.590259    90    120    Corrine Gas Plant
+31.867778    -89.663889    98    127    Magee Gas Plant
+30.3825    -88.496389    150    176    Pascagoula Gas Plant (Pascagoula Gas Processing Plant)
+31.541667    -88.64    108    140    Bazor Ridge Gas Plant
+35.61864    -100.14509    90    120    Allison Gas Plant
+32.42749    -102.80838    90    120    Fullerton Plant
+32.146944    -103.056667    90    120    Dollarhide Gas Plant
+32.162806    -102.355675    90    120    MidMar West Gas Plant
+32.863243    -94.588698    90    120    East Texas (Avinger)
+32.822617    -97.596019    90    120    Azle Processing Plant
+31.023888    -103.744444    90    120    Johnson State Compressor Facility
+31.269573    -101.162421    90    120    Irion County Plant
+27.686769    -97.902564    111    142    Gulf Plains Gas Plant
+33.52713    -97.88261    90    120    Kripple Kreek Gas Plant
+35.605    -100.148333    90    120    Zybach Plant
+35.694362    -100.22911    90    120    Woodall Gas Plant
+31.06255    -93.961116    94    120    Brookeland Gas Plant
+35.9983    -100.1206    90    120    Antelope Hills Gas plant
+35.692874    -100.339679    90    120    Hobart Cryo Plant
+35.870084    -100.404252    90    120    Canadian Gas Plant
+35.839807    -100.354347    90    120    Hemphill Gas Plant
+35.747167    -100.396033    90    120    Hobart Ranch Plant
+35.767841    -100.379162    90    120    Hemphill Gas Processing Plant
+32.18813    -94.262477    90    120    East Texas Gas Plant
+32.167472    -94.422083    90    120    Carthage Gas Plant
+31.73996    -94.34102    90    120    Stockman Processing Plant
+33.3125    -97.878056    90    120    Chico Plant
+32.275616    -99.187245    90    120    Shackelford Gas Plant
+32.334876    -97.681069    90    120    Cowtown Gas Plant
+32.496594    -101.351758    90    120    East Vealmoor Gas Plant
+30.279444    -95.365833    98    134    Conroe Natural Gas Processing Plant
+27.799706    -97.565569    119    150    Shoup Gas Processing and Fractionation Plant
+31.268888    -103.086666    90    120    Waha Gas Plant
+31.190833    -102.989444    90    120    Coyanosa Plant
+31.501111    -102.640833    90    120    Sand Hills Plant
+31.325    -102.5625    90    120    Cordona Lake Gas Plant
+32.43704    -94.29724    90    120    Crossroads Gas Plant
+33.171531    -97.397889    90    120    Sweetwater Creek Gas Plant
+26.656694    -98.483556    102    132    Enterprise Delmita Gas Plant
+32.9228916667    -102.845897222    90    120    WPMT NGL
+32.99825    -102.81518    90    120    Denver Unit CO2 Recovery Plant
+33.028022    -102.826304    90    120    Willard CO2 Seperation Plant
+33.011706    -102.75465    90    120    Wasson CO2 Recovery Plant
+31.202633    -99.928895    90    120    Agaritta Gas Plant
+34.043286    -98.968914    90    120    Electra Gas Plant
+29.211995    -98.409108    91    120    Enterprise San Martin Gas Plant
+32.267796    -96.040138    90    120    Eustace Gas Processing Plant
+27.276394    -98.154469    107    139    La Gloria Gas Processing Plant
+30.987525    -102.978611    90    120    Gomez Gas Plant
+32.59539    -97.557163    90    120    Goforth Processing Plant
+32.5699361111    -101.256338889    90    120    Hanover Reinecke Site
+28.405778    -98.135889    100    130    Three Rivers Gas Plant
+30.091556    -96.895861    93    122    North Fayette Gas Sweetening Plant
+32.787079    -95.062939    90    120    Rosewood Dew Point Facility
+32.371    -97.536    90    120    West Johnson County Gas Plant
+32.498447    -97.553597    90    120    ETC Godley Gas Processing Plant
+31.98098    -102.634511    90    120    Goldsmith Plant
+32.5395    -98.338139    90    120    Gordon Plant
+32.661389    -98.312222    90    120    Lone Camp Gas Processing Plant
+32.706105    -95.358166    90    120    Hainesville Gas Processing Plant
+29.3361    -96.67954    103    137    Wilcox Gas Plant
+32.867211    -100.265386    90    120    Hamlin Gas Plant
+32.611667    -95.196667    90    120    ExxonMobil Production - Hawkins Gas Plant
+32.158889    -94.878056    90    120    Henderson Gas Plant
+27.94161    -98.8713    95    122    Enterprise Shilling Gas Processing Plant
+30.885163    -101.921369    90    120    Kinder Morgan Production Co. LLC - Yates Gas Plant
+30.868889    -101.930556    90    120    Kinder Morgan Production Co. LP-Tract 75 NGL Plant
+31.91107    -94.05894    90    120    Joaquin Processing Plant
+31.7302    -102.9929    90    120    Halley Plant
+31.945556    -103.044167    90    120    Keystone Gas Plant
+30.005833    -96.888611    94    123    ETC La Grange Gas Processing Plant
+35.433364    -100.762635    90    120    Lefors Gas Plant
+30.756923    -94.70286    97    126    Indian Springs Gas Plant
+32.503611    -94.868056    90    120    Longview Gas Plant
+32.413475    -94.700139    90    120    Longview Gas Processing Plant
+31.000611    -95.892222    90    120    OSR Halliday S-3 Battery
+29.017544    -96.060292    116    152    WFS - Gulf Coast Company Markham Cryogenic Plant
+35.538056    -101.895556    90    120    Fain Gas Plant
+31.039383    -102.221474    90    120    Neleh Gas System
+31.036667    -102.221389    90    120    Tippett Gas Plant
+26.421185    -98.345585    104    136    Enterprise Gilmore Gas Plant
+35.240472    -100.542056    90    120    McLean Gas Plant
+31.184137    -100.906931    90    120    Mertzon Gas Plant
+35.786778    -100.627333    90    120    Red Deer Gas Plant
+35.788083    -100.621021    90    120    Osborne Plant
+35.899617    -100.827463    90    120    Indian Creek Gas Plant
+35.904722    -100.830833    90    120    Roberts County Gas Plant
+31.661667    -102.138056    90    120    Pegasus Gas Plant
+31.646547    -101.767514    90    120    Midkiff Gas Plant
+31.362088    -101.77962    90    120    WTG Benedum Joint Venture, L. P.
+31.857832    -101.791956    90    120    Spraberry Plant
+27.257361    -98.93725    96    123    Enterprise Thompsonville Gas Plant
+33.63325    -97.624417    90    120    Saint Jo Gas Plant
+32.210954    -101.935216    90    120    Sale Ranch Gas Plant
+31.870167    -102.300111    90    120    Headlee Gas Plant
+28.665343    -96.55667    118    152    Formosa Hydrocarbons Company Inc - Point Comfort
+33.160389    -101.400681    90    120    Cedar Hill Gas Plant
+32.0859    -95.5823    90    120    Hunt Oil Company - Fairway Gas Plant
+29.733793    -97.732144    92    120    Luling Gas Plant
+27.468056    -98.055833    109    140    ExxonMobil Production - King Ranch Gas Plant
+32.859444    -99.220278    90    120    Shackelford Plant
+32.468472    -98.789121    90    120    Ranger Compressor Station
+31.34372    -101.799403    90    120    Benedum Gas Plant
+33.196058    -97.803109    90    120    Bridgeport Plant
+33.029569    -95.188927    90    120    New Hope Plant
+32.757565    -102.682306    90    120    Seminole Gas Processing Plant
+29.469755    -96.622991    101    135    Houston Central Gas Plant
+33.682632    -96.636205    90    120    Sherman Plant
