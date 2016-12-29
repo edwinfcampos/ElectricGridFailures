@@ -1,0 +1,34 @@
+# scenario file describes the data resources needed to configure and run
+
+# version Hereld 2015-08-27
+
+Version = 'Hereld_CC_2015-08-27'
+Date = '2015-08-27'
+Name = 'Wind and Water'
+Description = 'Testing interactions between high wind and flooding on electric power and natural gas'
+
+# -------------------------------------- Disaster Shape Files
+# Earthquake = 'The Big One'
+Wind = 'data/al182012_2012102912_Flat2'
+Flood = 'data/ProbSurge02c_06191400_0-SFC'
+# Zombie War = 'World War Z'
+# Raining Cats and Dogs = 'Forty Days'
+
+# -------------------------------------- Infrastructure Shape Files
+ElectricPowerGrid = 'data/EPGridData/buses'
+#NaturalGasSystem = ''
+# Water Supply System = ''
+# Rail System = ''
+# Highway System = ''
+# Communication System = ''
+
+# -------------------------------------- Asset DB Files
+Assets = 'data/EP_Assets_20150824.txt'
+# Assets = ''
+
+# -------------------------------------- Fragility Description Files
+#Fragilities = 'data/FloodFragility_20150817.txt'
+Fragilities = 'data/HurricaneFragilityDB.txt'
+
+End
+
